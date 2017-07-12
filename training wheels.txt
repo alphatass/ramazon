@@ -58,9 +58,9 @@ document.getElementById(" ").innerHTML = var
 <h3> STEP 2: Pick How Much Stuff<h3>
 <br>
 	<form>
- 	<input type="checkbox" name="Some" value="Sports & Outdoors" unchecked> Some Stuff $20<br>
-	<input type="checkbox" name="More" value="Sports & Outdoors" unchecked> More Stuff $50<br>
-	<input type="checkbox" name="All" value="Clothing" unchecked> All the Stuff $100<br>
+ 	<input type="checkbox" name="Some" value="Some Stuff" unchecked> Some Stuff $20<br>
+	<input type="checkbox" name="More" value="More Stuff" unchecked> More Stuff $50<br>
+	<input type="checkbox" name="All" value="All The STUFF" unchecked> All the Stuff $100<br>
 	<input type="checkbox" name="Monthly" value="Custom Stuff" unchecked> Monthly Stuff<br>	
 	Custom Stuff<input type="text" name="Custom"> <br>	
 	
